@@ -1,11 +1,11 @@
 import React from 'react';
 import '../../App.css';
-import Cards2 from '../Cards2';
+import ArticleMenu from '../ArticleMenu';
 
 export default function Article() {
   return (
     <>
-      <Cards2 />
+      <ArticleMenu />
     </>
   );
 }

@@ -1,5 +1,5 @@
 import React from 'react';
-import './Cards2.css';
+import './ArticleMenu.css';
 import CardItem from './CardItem';
 
 function Cards() {

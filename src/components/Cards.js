@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 
@@ -14,7 +14,7 @@ function Cards() {
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               text2='Ayo bang terjun, jangan diliatin aja!'
               label='Adventure'
-              path='/services'
+              path='/Content'
             />
             <CardItem
               src='images/img-2.jpg'

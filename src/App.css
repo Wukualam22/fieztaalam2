@@ -16,6 +16,10 @@
   font-size: 3rem;
 }
 
+body {
+  background-color: #EFEAD8;
+}
+
 .article {
   background-image: url('/images/img-2.jpg');
   background-position: center;
